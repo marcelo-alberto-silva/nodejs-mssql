@@ -1,0 +1,7 @@
+SELECT [ID_HISTORICO]
+      ,[NOME]
+      ,[ID_CONDOMINIO]
+      ,[ID_PLANO_CONTA]
+      ,[TIPO_MOVIMENTO]
+      ,[CODIGO_HISTORICO]
+FROM   [dbo].[TB_HISTORICO]
